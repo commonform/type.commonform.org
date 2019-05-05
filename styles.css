@@ -33,8 +33,9 @@ body > footer {
 }
 
 body > footer {
-  border-top: 1px solid black;
-  margin-top: 5rem;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  text-align: right;
 }
 
 a[href] {
