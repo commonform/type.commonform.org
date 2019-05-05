@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang=EN>
+  <head>
+    <meta charset=UTF-8>
+    <title>Type Common Forms in Two Minutes</title>
+    <link rel=stylesheet href=normalize.css>
+    <link rel=stylesheet href=styles.css>
+    <link rel=stylesheet href=commonform.css>
+  </head>
+
+  <body>
+    <header>
+      <h1>Type Common Forms in Two Minutes</h1>
+    </header>
+
+    <main>
+      <p>Common Form tools and websites make it easy to type, edit, and share legal terms.</p>
+      <p>Typing our terms for Common Form is even easier than using a word processor.  You can learn how in two minutes flat:</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th></th>
+            <th>Type</th>
+            <th>To Get</th>
+            <th>Why?</th>
+          </tr>
+        </thead>
+
+        <tbody id=definitions>
+          <tr>
+            <th>Definitions</th>
+            <td><p><code>The **Purchase Price** is $15.</code></p></td>
+            <td><p class=commonform>The <dfn>Purchase Price</dfn> is $15.</p></td>
+            <td><p>Surround defined terms with asterisks where defined so your computer can keep track of them for you.</p></td>
+          </tr>
+        </tbody>
+
+        <tbody id=blanks>
+          <tr>
+            <th>Blanks</th>
+            <td><p><code>The **Purchase Price** is `Purchase Price in USD`.</code></p></td>
+            <td><p class=commonform>The <dfn>Purchase Price</dfn> is <input readonly=true type=text placeholder="Purchase Price in USD">.</p></td>
+            <td><p>Surround fill-in-the-blank placeholders with backticks.</p></td>
+          </tr>
+        </tbody>
+
+        <tbody id=uses>
+          <tr>
+            <th>Uses</th>
+            <td><p><code>_Buyer_ will pay _Seller_ the _Purchase Price_ on the _Closing Date_.</code></p></td>
+            <td><p class=commonform><em>Buyer</em> will pay <em>Seller</em> the <em>Purchase Price</em> on the <em>Closing Date</em>.</p></td>
+            <td><p>Surround terms with underscores where used so your computer can check that you've defined them.</p></td>
+          </tr>
+        </tbody>
+
+        <tbody id=headings>
+          <tr>
+            <th rowspan=5>Headings</th>
+            <td><code># Term</code></td>
+            <td><h2>Term</h2></td>
+            <td rowspan=5>Prepend section headings with number signs, one per level of depth, so your computer can understand the structure of your form.</td>
+          </tr>
+          <tr>
+            <td><code>## Expiration</code></td>
+            <td><h3>Expiration</h3></td>
+          </tr>
+          <tr>
+            <td><code>This agreement will expire on January 1, 2020.</code></td>
+            <td><p class=commonform>This agreement will expire on January 1, 2020.</p></td>
+          </tr>
+          <tr>
+            <td><code>## Early Termination</code></td>
+            <td><h3>Early Termination</h3></td>
+          </tr>
+          <tr>
+            <td><code>Either party can end this agreement early by notifying the other by e-mail at least thirty calendar days in advance.</code></td>
+            <td><p class=commonform>Either party can end this agreement early by notifying the other by e-mail at least thirty calendar days in advance.</p></td>
+          </tr>
+        </tbody>
+
+        <tbody id=references>
+          <tr>
+            <th rowspan=4>References</th>
+            <td><code># Continue After Termination</code></td>
+            <td><h2>Continue After Termination</h2></td>
+            <td rowspan=4>Write cross references using the name of the section you are referencing in square brackets so your computer can make sure that section exists, and show a reference.</td>
+          </tr>
+          <tr>
+            <td><code>[Keep Customer Data Confidential] will survive termination of this agreement indefinitely.</code></td>
+            <td><p class=commonform><a href=#Keep_Customer_Data_Confidential>Keep Customer Data Confidential</a> will survive termination of this agreement indefinitely.</p></td>
+          </tr>
+          <tr>
+            <td><code># Keep Customer Data Confidential</code></td>
+            <td><h2 id=Keep_Customer_Data_Confidential>Keep Customer Data Confidential</h2></td>
+          </tr>
+          <tr>
+            <td><code>_Provider_ agrees not to access, use, or disclose _Customer Data_ without permission, except as needed to provide the _Service_.</code></td>
+            <td><p class=commonform><em>Provider</em> agrees not to access, use, or disclose <em>Customer Data</em> without permission, except as needed to provide the <em>Service</em>.</p></td>
+          </tr>
+        </tbody>
+
+        <tbody id=lists>
+          <tr>
+            <th rowspan=2>Lists</th>
+            <td><code>Intellectual Property Rights means all of these:</code></td>
+            <td><p class=commonform>Intellectual Property Rights means all of these:</p></td>
+            <td rowspan=2>Put each item of a list on its own line, and prepend with a dash, so your computer can recognize it as a list.</td>
+          </tr>
+          <tr>
+            <td>
+              <code>
+                - copyrights, mask work rights, and moral rights<br>
+                <br>
+                - patent rights<br>
+                <br>
+                - trade secrets<br>
+                <br>
+                - trade names, trademarks, service marks, and trade dress<br>
+                <br>
+                - database rights<br>
+                <br>
+                - rights in plant varieties<br>
+                <br>
+                - rights in registrations and applications for Intellectual Property Rights
+              </code>
+            </td>
+            <td>
+              <ul>
+                <li><p class=commonform>copyrights, mask work rights, and moral rights</p></li>
+                <li><p class=commonform>patent rights</p></li>
+                <li><p class=commonform>trade secrets</p></li>
+                <li><p class=commonform>trade names, trademarks, service marks, and trade dress</p></li>
+                <li><p class=commonform>database rights</p></li>
+                <li><p class=commonform>rights in plant varieties</p></li>
+                <li><p class=commonform>rights in registrations and applications for Intellectual Property Rights</p></li>
+              </ul>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </main>
+  </body>
+</html>

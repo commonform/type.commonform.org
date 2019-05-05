@@ -1,0 +1,98 @@
+html {
+  font-size: 2.0vw;
+}
+
+@media all and (min-width:1000px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+@media all and (max-width:520px) {
+  html{
+    font-size: 14px;
+  }
+}
+
+html {
+  background-color: #fefefe;
+  font-family: sans-serif;
+  font-weight: 400;
+  line-height: 1.45;
+  text-rendering: optimizeLegibility;
+}
+
+body > header,
+body > nav,
+body > main,
+body > footer {
+  margin: 3rem auto;
+  max-width: 60rem;
+  padding: 0 1rem;
+  text-align: left;
+}
+
+body > footer {
+  border-top: 1px solid black;
+  margin-top: 5rem;
+}
+
+a[href] {
+  color: #3344dd;
+}
+
+a[href]:hover,
+a[href]:focus,
+a[href]:active {
+  color: #bb1122;
+}
+
+a[href]:visited {
+  color: #884488;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;
+  margin: 0;
+}
+
+input, select, button {
+  padding: 0.5rem;
+}
+
+p {
+  margin: 0 0 1em 0;
+}
+
+:target {
+  background-color: rgb(245, 255, 150);
+  position: relative;
+}
+
+:target:before {
+  content: '→';
+  font-weight: bold;
+  left: -2rem;
+  position: absolute;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tbody {
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+tbody th, tbody td {
+  padding: 1rem 0.5rem;
+}
+
+td, th {
+  padding: 1rem;
+  text-align: left;
+  vertical-align: top;
+}
