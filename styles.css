@@ -97,8 +97,14 @@ code, pre {
   font-family: sans-serif;
 }
 
+main > h2 {
+  text-align: center;
+}
+
 pre {
   border-left: 3px solid #777;
+  max-width: 40rem;
+  margin: 1rem auto;
   padding-left: 1rem;
   white-space: pre-wrap;
 }
