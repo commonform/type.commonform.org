@@ -33,7 +33,7 @@ body > footer {
 }
 
 body > footer {
-  margin-top: 2rem;
+  margin-top: 0;
   padding-top: 2rem;
   text-align: right;
 }
@@ -97,7 +97,11 @@ code, pre {
   font-family: sans-serif;
 }
 
-main > h2 {
+section {
+  margin-bottom: 5rem;
+}
+
+section > h2 {
   text-align: center;
 }
 
