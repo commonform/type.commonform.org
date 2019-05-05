@@ -1,0 +1,7 @@
+title: Type Common Forms
+repository: commonform/type.commonform.org
+exclude:
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock

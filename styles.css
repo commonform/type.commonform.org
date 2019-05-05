@@ -93,6 +93,12 @@ td, th {
   vertical-align: top;
 }
 
+pre {
+  border-left: 3px solid #777;
+  padding-left: 1rem;
+  white-space: pre-wrap;
+}
+
 .commoformn h1,
 .commonform h2,
 .commonform h3,
