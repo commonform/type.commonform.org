@@ -108,9 +108,9 @@ Both parties shall comply with export and reexport laws with respect to _Confide
 
 ## Compliance and Oversight
 
-- _Receiving Party_ shall ensure that its Advisers abide by the confidentiality obligations of _Receiving Party_ under this agreement.  If _Receiving Party_ is a legal entity, _Receiving Party_ shall also ensure that its Personnel abide by the confidentiality obligations of _Receiving Party_ under this agreement.  Breach of _Receiving Party_ obligations by _Receiving Party_ Personnel or _Receiving Party_ Advisers will be deemed breach of this agreement by _Receiving Party_ itself.
+- _Receiving Party_ shall ensure that its _Advisers_ abide by the confidentiality obligations of _Receiving Party_ under this agreement.  If _Receiving Party_ is a legal entity, _Receiving Party_ shall also ensure that its _Personnel_ abide by the confidentiality obligations of _Receiving Party_ under this agreement.  Breach of _Receiving Party_ obligations by _Receiving Party_ _Personnel_ or _Receiving Party_ _Advisers_ will be deemed breach of this agreement by _Receiving Party_ itself.
 
-- _Receiving Party_ is a legal entity, _Receiving Party_ shall provide _Disclosing Party_ copies of confidentiality agreements with Personnel who receive _Confidential Information_ on _Disclosing Party_ request.
+- _Receiving Party_ is a legal entity, _Receiving Party_ shall provide _Disclosing Party_ copies of confidentiality agreements with _Personnel_ who receive _Confidential Information_ on _Disclosing Party_ request.
 
 # Clarifications
 
@@ -138,7 +138,7 @@ No terms of this agreement prohibit either party from:
 
 - entering into any business relationship with any non-party; or
 
-- assigning and reassigning Personnel and Advisers in its sole discretion.
+- assigning and reassigning _Personnel_ and _Advisers_ in its sole discretion.
 
 # 18 U.S.C. 1833(b) Notice
 
