@@ -12,7 +12,7 @@ The parties anticipate disclosure of _Confidential Information_ for the purpose 
 
 ## Categories of Confidential Information
 
-Subject to [Exclusions from Confidential Information], **Confidential Information** means the following kinds of information:
+Subject to [Exclusions from Confidential Information](), **Confidential Information** means the following kinds of information:
 
 - information disclosed by _Disclosing Party_ during the term of this agreement that is related to the business of _Disclosing Party_;
 
@@ -42,7 +42,7 @@ Information _Receiving Party_ develops independently is not, or ceases to be, _C
 
 # Nondisclosure
 
-Except as described in [Permitted Disclosure], _Receiving Party_ shall not disclose _Confidential Information_ to anyone.
+Except as described in [Permitted Disclosure](), _Receiving Party_ shall not disclose _Confidential Information_ to anyone.
 
 # Permitted Disclosure
 
@@ -84,7 +84,9 @@ The following obligations apply when the law requires disclosure of _Confidentia
 
 If legally permitted, _Receiving Party_ shall promptly notify _Disclosing Party_ of the nature of the requirement and the _Confidential Information_ affected.  If practical, _Receiving Party_ shall give notice quickly enough to afford _Disclosing Party_ practical chance to start a proceeding to protect the confidentiality of the _Confidential Information_.  On _Disclosing Party_ request, _Receiving Party_ shall cooperate with _Disclosing Party_ in any such proceeding by providing reasonable assistance.
 
-### Reimburse Expenses of Cooperation.  _Disclosing Party_ shall reimburse _Receiving Party_'s reasonable out-of-pocket expenses of cooperating in any proceeding described in [Give Notice of Required Disclosure].
+### Reimburse Expenses of Cooperation
+
+_Disclosing Party_ shall reimburse _Receiving Party_'s reasonable out-of-pocket expenses of cooperating in any proceeding described in [Give Notice of Required Disclosure]().
 
 ## Give Notice of Leaks
 
@@ -92,7 +94,7 @@ _Receiving Party_ shall give _Disclosing Party_ notice when _Receiving Party_ be
 
 ## Return and Destruction
 
-Subject to [Records Policy], when this agreement terminates, _Receiving Party_ shall promptly:
+Subject to [Records Policy](), when this agreement terminates, _Receiving Party_ shall promptly:
 
 - return all materials embodying _Confidential Information_ that _Disclosing Party_ provided with request to return; and
 
@@ -160,7 +162,9 @@ No terms of this agreement prohibit either party from:
 
 # Term
 
-## Expiration  This agreement will terminate automatically on the first anniversary of the date of this agreement.
+## Expiration
+
+This agreement will terminate automatically on the first anniversary of the date of this agreement.
 
 ## Termination by Notice
 
@@ -168,7 +172,7 @@ Either party may terminate this agreement early by thirty calendar days' prior w
 
 ## Survival
 
-Obligations under [Confidentiality Obligations] for _Confidential Information_ disclosed during the term survive the term of this agreement as follows: 
+Obligations under [Confidentiality Obligations]() for _Confidential Information_ disclosed during the term survive the term of this agreement as follows:
 
   - Obligations for _Confidential Information_ that _Receiving Party_ knew or reasonably should have known constituted a trade secret survive as long as the _Confidential Information_ remains a trade secret.
 
