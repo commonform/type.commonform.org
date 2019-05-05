@@ -52,11 +52,6 @@ a[href]:visited {
   color: #884488;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  line-height: 1.25;
-  margin: 0;
-}
-
 input, select, button {
   padding: 0.5rem;
 }
@@ -96,6 +91,16 @@ td, th {
   padding: 1rem;
   text-align: left;
   vertical-align: top;
+}
+
+.commoformn h1,
+.commonform h2,
+.commonform h3,
+.commonform h4,
+.commonform h5,
+.commonform h6 {
+  line-height: 1.25;
+  margin: 0;
 }
 
 .commonform dfn {
