@@ -97,3 +97,19 @@ td, th {
   text-align: left;
   vertical-align: top;
 }
+
+.commonform dfn {
+  font-weight: bold;
+}
+
+.commonform dfn:before {
+  content: '“';
+}
+
+.commonform dfn:after {
+  content: '”';
+}
+
+.commonform em {
+  font-style: italic;
+}
