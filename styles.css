@@ -93,6 +93,10 @@ td, th {
   vertical-align: top;
 }
 
+code, pre {
+  font-family: sans-serif;
+}
+
 pre {
   border-left: 3px solid #777;
   padding-left: 1rem;
