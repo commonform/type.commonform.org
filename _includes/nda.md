@@ -26,7 +26,7 @@ Subject to [Exclusions from Confidential Information](), **Confidential Informat
 
 ## Exclusions from Confidential Information
 
-### Information
+### Public Information
 
 Information that is now public is not _Confidential Information_.  _Confidential Information_ that becomes public, other than as a result of breach of this agreement, ceases to be _Confidential Information_.
 
@@ -40,11 +40,11 @@ Information _Receiving Party_ develops independently is not, or ceases to be, _C
 
 # Confidentiality Obligations
 
-# Nondisclosure
+## Nondisclosure
 
 Except as described in [Permitted Disclosure](), _Receiving Party_ shall not disclose _Confidential Information_ to anyone.
 
-# Permitted Disclosure
+## Permitted Disclosure
 
 _Receiving Party_ may disclose _Confidential Information_ to the following personnel:
 
