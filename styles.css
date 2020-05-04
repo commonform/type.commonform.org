@@ -138,3 +138,8 @@ pre {
 .commonform em {
   font-style: italic;
 }
+
+ul {
+  margin-top: 0;
+  padding-top: 0;
+}
