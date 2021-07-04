@@ -61,7 +61,6 @@ p {
 }
 
 :target {
-  background-color: rgb(245, 255, 150);
   position: relative;
 }
 
