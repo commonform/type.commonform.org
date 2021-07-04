@@ -1,7 +1,4 @@
 #!/bin/sh
 set -e
 SITE=type.commonform.org
-rm -rf _site
-bundler install --quiet
-bundler exec jekyll build --quiet
-rsync -4 -a --delete _site/ "$SITE:/var/www/$SITE/"
+rsync -a --delete ./*.html ./*.css ./*.png "$SITE:/var/www/$SITE/"
